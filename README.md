@@ -31,25 +31,21 @@ Sector Focus: Internet Media & Advertising, Ecommerce & Retail, Banking Services
 - Presented results of statistical analysis and marketing effectiveness for fortune 100 client and calculation of return on marketing investment
 
 ## Projects
-### Category Level Contribution Margin 
+### Scoring modeling in marketing research to improve response rate of marketing campaigns
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The concepot of RFM **(Recency, Frequency and Monetary)** in market research extent way back when historical transactions started to be collected in databases. Suddenly, we had DB-managers and analst looking into databases to understand response rate performance to evaluate direct marketing campaigns effectiveness. By simply looking into co-horts based on RFM, analysts were able to notic stark changes in customer responses to similar campaigns. So, in order to improve performance, they would mail customers more frequently who are more likely to respond than others.
 
-### Correlation Matrix Impact of Sales based on Spend
+### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+MMM is a statistical analysis to estimate the past impact and predict the future impact of various marketing tactics on sales, can deeply inform marketing plans.
+I created a **full stack econometric model** for marketing mix to evaluate the sales forecast, it is important to understand the concept of advertising stock (adstock) decomposition for campaigns, the level of reach, penetration and frequency ordering to manage various media channels. We would also go into details of how sales distribution and price-promotion plays role in creating a full stack economic models.
 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
-## Decision Tree Algorithm Used in Category Optimization
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## The impact of frequency on conversion rates
+Marketers in all media are interested in the concept of optimal frequency, few know how to actually measure it. Coommon sense tells us that too few impressions won't generate significant impact, while too many impressions delivered to a given user results in over-saturation and a waster of media dollars.
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
