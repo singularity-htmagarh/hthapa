@@ -1,28 +1,28 @@
-# Data Science Leader
-## Advance Analytics | Marketing Analytics | Strategy | Measurement
+# Media & Marketing Science Leader
+## Digital Media Insights | Strategy & Consulting | Marketing Analytics
 
-#### Delivered exceptional results during 8+ years of consulting, driving a 20% marketing efficiency using Marketing Mix Modeling throughout digital marketing initiatives, Implemented cross-channel attribution strategies resulting in a 25% improvement in sales forecasts. Established robust media measurement plans, achieving a 30% reduction in media budget which maintaining effectiveness and consistently exceeding scorecard benchmarks
+#### Digital Media and Marketing Science Leader with over a decade of experience providing thought leadership and analytical insights to executives for better business decisions and strategies.  Expert in developing digital media insights, scorecard reports, attribution models, strategy and measurement plans in multiple sectors: E-commerce, Banking Services, Media and advertising.  Deep interest in consumer behaviour and business intelligence.
 
-Top Skills: Marketing Mix Modeling, Media Measurement Plans, Machine Learning, Automation, Strategy Development, Marketing Analytics, Customer Segmentations
-Tools: Python, SQL, Tableau, Adobe Analytics, Google Analytics 360, Cloud Computing
-Sector Focus: Internet Media & Advertising, Ecommerce & Retail, Banking Services
+Digital Media Tools: Adobe Marketing Cloud, GA-4, Facebook Blueprint, Looker, DOMO
+Programming Language: Python, R, SQL, Tableau, Advance Excel
+Platforms: Google 360 (Display, Video, Search ads), Salesforce, Tag Managers, Social Media Ads
 
 ## Work Experience
 **Manager - Data and Analytics, TD Canada Trust (_Nov 2021 - Present_)**
-- Key contributor in leading the end-to-end attribution methodology for inbound channels for revenue attribution through several line of businesses using response curves and adstock effects
-- Managed attribution reporting for key digitally personalized channels such as email, measuring impact of cross-sell & up-sell acquisition campaigns on net-new account creations.
-- Implemented frequency cap and optimal reach targets for personalized channels like email, branch leads & advice prompts to improve overall engagement by +15%
-- Helped in integrating customer digital interactions through DCM & Omniture data using TD links to align with business book of records, deduping on sales attribution to multiple channels
+- Enhanced digital measurement report for key digitally personalized channels (i.e. Annual 145 MM email vol.) by adding attributed revenue sales based on account conversions through cross-sell and up-sell acquisition campaigns.
+- Lead digital analytics initiatives by reduced media waste on personalized channels by +15% through optimal frequency cap and controlled reach audience by analyzing 150+ triggered campaigns (Facebook & Google)
+- Built and automated dashboards for the executive team in data partnership with an agency to utilize 3rd party information on personalized channels (Email and Leads) for brand marketing, showcasing performance KPIs (Tableau)
+- Lead measurement strategies connecting digital outcomes (Search, Video and Display Ads) with business conversion metrics, showcasing $200 MM digital ads driven sales.
 
-**Lead - Media Analytics, Epsilon (_Jan 2019 - Dec 2020_)**
-- Enhanced marketing effectiveness by constructing customer-level attribution models with optimization of reach and frequency yielded a 15% increase in customer engagement, fostering a more targeted and impactful communication strategy.
-- Prepare quarterly media optimization scenarios to inform media plans, financial forecasting, and target areas for efficiency gains and led efforts in building Machine Learning algorithms to help provide budget simulation scenarios, Built cross-channel PnL dashboard and sensitivity analysis to effectively evaluate media attribution
-- Constructed financial forecast for client media with +10% efficiency gains in top-funnel acquisition based on time-series models to evaluate channel contribution (based on waterfall approach) and help to increase media efficiency
+**Lead - Digital Analytics, Epsilon (_Jan 2019 - Dec 2020_)**
+- Drove a 15% increase in customer engagement and enhanced marketing effectiveness by constructing customer-level attribution models with optimization of reach and frequency.  Fostered a more targeted and impact communication strategy. 
+- End-to-end deployment of attribution model for direct-to-consumer (D2C) client with the help of POS data, presenting overall incremental volume impact using waterfall charts and optimal budget allocation using media response curves.
+- Recommended and optimized targeting strategy (+35% engagement rate) through shopper behaviour persona insights using Epsilon proprietary data (Total SourcePlus) using demographic, psychographic, and economic indicators.
 
-**Manager - Digital Analytics, iCrossing Company (_Mar 2016 - Dec 2018_)**
-- Developed and monitor quarterly sales forecast & optimization deliverable managing $29.4M investment
-- Supervised 2 analysts on preparing & presenting monthly reports, implemented python code & APIs integration by reducing reporting cycle by 20%
-- Constructed a seasonal forecast model managing $16M investment resulting in +15% ROI improvement
+**Manager - Digital Media Insights, iCrossing Company (_Mar 2016 - Dec 2018_)**
+- Developed and monitored quarterly sales forecast and optimization deliverables managing 29.4 MM investment on paid media (including paid search, display, social and online video (OLV) channels
+- Supervised 2 analysts on preparing and presenting monthly and quarterly reports using API integration by reducing the reporting cycle by 20% (python & R)
+- Constructed a seasonal forecast model managing 16M in investments, resulting in +15% improvement in ROI
 - Tracked spending against budget and project progress to ensure effectiveness and accuracy
 - Identified conversion saturation levels based on attribution risks to optimize media channel portfolio budget
 
