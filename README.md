@@ -1,11 +1,13 @@
-# Media & Marketing Science Leader
-## Digital Media Insights | Strategy & Consulting | Marketing Analytics
+# Data Scientist & Machine Learning Leader
+## AI/ML | Strategy & Consulting | Business Insights
 
-#### Digital Media and Marketing Science Leader with over a decade of experience providing thought leadership and analytical insights to executives for better business decisions and strategies.  Expert in developing digital media insights, scorecard reports, attribution models, strategy and measurement plans in multiple sectors: E-commerce, Banking Services, Media and advertising.  Deep interest in consumer behaviour and business intelligence.
+#### Data Science/Machine Learning Professional with 8+ years of experience in advanced analytics, data engineering, reporting and automation, proven expertise in leading data-driven initiatives, building machine learning and optimization models and delvering actionable insights to drive business performance. Strong track record in managing cross-functional teams and maintaining growth through advanced data science solutions.
 
-Digital Media Tools: Adobe Marketing Cloud, GA-4, Facebook Blueprint, Looker, DOMO
-Programming Language: Python, R, SQL, Tableau, Advance Excel
-Platforms: Google 360 (Display, Video, Search ads), Salesforce, Tag Managers, Social Media Ads
+MLOps Tools: GCP Machine Learning Tools, BigQuery ML, TensorFlow, PyTorch
+Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquistion Cost Analysis
+Programming Language: Python, R, SQL, JavaScript, Advance Excel, Shell Script
+Database Systems & Cloud Computing: Amazon Web Services-Redshift, Athena, SQL Server, Google Cloud (Big Query), Azure Databricks
+Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
 ## Work Experience
 **Manager - Data and Analytics, TD Canada Trust (_Nov 2021 - Present_)**
