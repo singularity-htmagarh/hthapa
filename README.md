@@ -3,23 +3,31 @@
 
 #### Data Science/Machine Learning Professional with 8+ years of experience in advanced analytics, data engineering, reporting and automation, proven expertise in leading data-driven initiatives, building machine learning and optimization models and delvering actionable insights to drive business performance. Strong track record in managing cross-functional teams and maintaining growth through advanced data science solutions.
 
-MLOps Tools: GCP Machine Learning Tools, BigQuery ML, TensorFlow, PyTorch
-Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquistion Cost Analysis
-Programming Language: Python, R, SQL, JavaScript, Advance Excel, Shell Script
-Database Systems & Cloud Computing: Amazon Web Services-Redshift, Athena, SQL Server, Google Cloud (Big Query), Azure Databricks
-Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
+- MLOps Tools: GCP Machine Learning Tools, BigQuery ML, TensorFlow, PyTorch
+- Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquistion Cost Analysis
+- Programming Language: Python, R, SQL, JavaScript, Advance Excel, Shell Script
+- Database Systems & Cloud Computing: Amazon Web Services-Redshift, Athena, SQL Server, Google Cloud (Big Query), Azure Databricks
+- Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
 ## Work Experience
-**Manager - Data and Analytics, TD Canada Trust (_Nov 2021 - Present_)**
-- Enhanced digital measurement report for key digitally personalized channels (i.e. Annual 145 MM email vol.) by adding attributed revenue sales based on account conversions through cross-sell and up-sell acquisition campaigns.
-- Lead digital analytics initiatives by reduced media waste on personalized channels by +15% through optimal frequency cap and controlled reach audience by analyzing 150+ triggered campaigns (Facebook & Google)
-- Built and automated dashboards for the executive team in data partnership with an agency to utilize 3rd party information on personalized channels (Email and Leads) for brand marketing, showcasing performance KPIs (Tableau)
-- Lead measurement strategies connecting digital outcomes (Search, Video and Display Ads) with business conversion metrics, showcasing $200 MM digital ads driven sales.
+**Co-Founder, PRL Insights & Partners (_July 2024 - Present_)**
+- Co-founded boutique data analytics and innovation based consulting startup that focuses on global macro based forecasting, quantitative finance & capital markets research using applied machine learning techniques.
+- Implemented time-series techniques based on 90% sucess rate in back-testing & value at risk reduction (market risk) calculation for stock price volatlity.
+- Constructed optimized portfolio to maximize performance while controlling risk, draw-down and trading cost, while enhancing the scalability & flexibility of portfolio
+- Collaborated with data engineers to optimize feature engineering processes, improving model accuracy by +20% on average.
 
-**Lead - Digital Analytics, Epsilon (_Jan 2019 - Dec 2020_)**
-- Drove a 15% increase in customer engagement and enhanced marketing effectiveness by constructing customer-level attribution models with optimization of reach and frequency.  Fostered a more targeted and impact communication strategy. 
-- End-to-end deployment of attribution model for direct-to-consumer (D2C) client with the help of POS data, presenting overall incremental volume impact using waterfall charts and optimal budget allocation using media response curves.
-- Recommended and optimized targeting strategy (+35% engagement rate) through shopper behaviour persona insights using Epsilon proprietary data (Total SourcePlus) using demographic, psychographic, and economic indicators.
+**Manager - Data Science & Analytics, TD Canada Trust (_Nov 2021 - June 2024)**
+- Developed comprehensive measurement plans and performance scorecards to drive omni-channel strategies across owned channesl (owned & Paid Media), optimizing busines conversions, and implementing attribution models to achieve strategic business objectives.
+- Established a daily automation process to transfer 500 GB 1TB of data from remote servers using seured socket shell (SSH) through putty terminals, storing them into in-house cloudera apache hadopp data lakes.
+- Established e2e automated jobs for output data generation for email tableau reporting using Apache Ozzie job automation and scheduling operations saving 72 hours or resource time.
+- Conducted a thorough cleaning of master campaign files to identify taxonomy gaps in reporting, utilizing an NLP algorithm. This process involved integrating data from various sources to ensure comprehensive and accurate reporting.
+- Developed and implemented machine learning models to optimize digital marketing campaigns, leading to a +20% increase in ROI by enhancing ad targeting and audience segmentation.
+
+**Team Lead - Data Science Analytics, Epsilon (_Jan 2019 - Dec 2020_)**
+- Collaborated with cross-functional teams to design and implement data pipelines that automated the colelction, cleaning and analysis of digital marketing data, reducing reporting time by +30%
+- Implemented machine learning algorithm based on +90% success on back-test using python code to predict customer behavioral insights, experience and loyalty.
+- Implemented advanced machine learning algorithms and statistical techniques to analye digital media per formance, built measurement frameworks and attribution models to track performance across paid, earned and owned channels, increasing conversion rates by +15%
+- Analyzed large sclae audience data (100M+ users) using Apache Hive and PySpark, enabling the optimization of media spend and personalized content recommendations for fortune 500 clients.
 
 **Manager - Digital Media Insights, iCrossing Company (_Mar 2016 - Dec 2018_)**
 - Developed and monitored quarterly sales forecast and optimization deliverables managing 29.4 MM investment on paid media (including paid search, display, social and online video (OLV) channels
