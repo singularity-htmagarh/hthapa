@@ -29,16 +29,18 @@
 - Implemented advanced machine learning algorithms and statistical techniques to analye digital media per formance, built measurement frameworks and attribution models to track performance across paid, earned and owned channels, increasing conversion rates by +15%
 - Analyzed large sclae audience data (100M+ users) using Apache Hive and PySpark, enabling the optimization of media spend and personalized content recommendations for fortune 500 clients.
 
-**Manager - Digital Media Insights, iCrossing Company (_Mar 2016 - Dec 2018_)**
-- Developed and monitored quarterly sales forecast and optimization deliverables managing 29.4 MM investment on paid media (including paid search, display, social and online video (OLV) channels
-- Supervised 2 analysts on preparing and presenting monthly and quarterly reports using API integration by reducing the reporting cycle by 20% (python & R)
-- Constructed a seasonal forecast model managing 16M in investments, resulting in +15% improvement in ROI
-- Tracked spending against budget and project progress to ensure effectiveness and accuracy
-- Identified conversion saturation levels based on attribution risks to optimize media channel portfolio budget
+**Manager - Data Scientist, iCrossing Company (_Mar 2016 - Dec 2018_)**
+- Developed and monitor quarterly sales forecast & optimization deliverable managing $29.4M investment
+- Supervised 2 analysts on preparing & presenting monthly reports, implemented python code & APIs integration by reducing reporting cycle by 20%
+- Constructed a seasonal forecast model managing $16M investment resulting in +15% ROI improvement
+- Performed click-stream data analysis on data stored in Amazon AWS S3 to uncover consumer behavior patterns and key variables influencing conversion, delivering real-time insights into engagement metrics.
+- Performed sentiment analysis on customer reviews and social media data, identifying key trends that informed content creation and social media strategy, driving a +25% increase in engagement.
 
-**Senior Analyst - Nielsen Marketing Services (_Mar 2015 - Mar 2016_)**
-- Managed full media mix modeling process from data collection, running models and measuring effectiveness and automated processes using SAS code to read media input and present results in business meaningful formats
-- Presented results of statistical analysis and marketing effectiveness for fortune 100 client and calculation of return on marketing investment
+**Senior Data Analyst - Nielsen (_Mar 2015 - Mar 2016_)**
+- Collaborated with cross-functional teams to gather requirements and created detailed data warehouse schematics, field specifications and data management processes to improve operational efficiency by +20%
+- Optimized client overall marketing budget by saving 4.5% $ margin on digital and traditional channels using media saturation curves built through marketing planners.
+- Developed machine learning models to optimize tag configurations, enhancing conversion rates by analyzing tag-triggred events and customer segments
+- Implemented machine learning pipelines and automation tools, reducing manual reporting time by 30%
 
 ## Projects
 ### Scoring modeling in marketing research to improve response rate of marketing campaigns
@@ -57,15 +59,15 @@ I created a **full stack econometric model** for marketing mix to evaluate the s
 ## The impact of frequency on conversion rates
 Marketers in all media are interested in the concept of optimal frequency, few know how to actually measure it. Coommon sense tells us that too few impressions won't generate significant impact, while too many impressions delivered to a given user results in over-saturation and a waster of media dollars.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Data Science YouTube](https://www.youtube.com/@HeathThapa)
 
 ## Step Wise Regression Analysis in Detail
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 
 ## Education
-- Masters, Engineering Industrial & Statistics | The Texas A&M University (_Dec 2011_)
-- Bachelors, Engineering Mechanical | Visvesvaraya Technological University (_June 2007_)
+- Masters, Engineering Industrial & Statistics | The Texas A&M University
+- Bachelors, Engineering Mechanical | Visvesvaraya Technological University
 
 <!--
 ## Publications
