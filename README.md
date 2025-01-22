@@ -1,20 +1,22 @@
 # Data Scientist & Machine Learning Leader
 ## AI/ML | Strategy & Consulting | Business Insights
 
-#### Data Science/Machine Learning Professional with 8+ years of experience in advanced analytics, data engineering, reporting and automation, proven expertise in leading data-driven initiatives, building machine learning and optimization models and delvering actionable insights to drive business performance. Strong track record in managing cross-functional teams and maintaining growth through advanced data science solutions.
+#### Data Science/Machine Learning Professional with 8+ years of experience in advanced analytics, data engineering, reporting and automation, proven expertise in leading data-driven initiatives, building machine learning and optimization models and delivering actionable insights to drive business performance. Strong track record in managing cross-functional teams and maintaining growth through advanced data science solutions.
 
 - MLOps Tools: GCP Machine Learning Tools, BigQuery ML, TensorFlow, PyTorch
-- Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquistion Cost Analysis
+- Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquisition Cost Analysis
 - Programming Language: Python, R, SQL, JavaScript, Advance Excel, Shell Script
 - Database Systems & Cloud Computing: Amazon Web Services-Redshift, Athena, SQL Server, Google Cloud (Big Query), Azure Databricks
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
 ## Work Experience
 **Co-Founder, PRL Insights & Partners (_July 2024 - Present_)**
+- Recommended top performing channels driving bottom-funnel metrics to optimize for higher conversion rate ($1.5 MM incremental revenue) by analysing cross-channel impact on digital attribution for clients (Adobe Analytics and Google Analytics Platform)
+- Carried out brand lift studies and creative A/B site testing to measure and optimize media channels including paid search, online video, natural search, programmatic, social media and mobile.
 - Co-founded boutique data analytics and innovation based consulting startup that focuses on global macro based forecasting, quantitative finance & capital markets research using applied machine learning techniques.
-- Implemented time-series techniques based on 90% sucess rate in back-testing & value at risk reduction (market risk) calculation for stock price volatlity.
-- Constructed optimized portfolio to maximize performance while controlling risk, draw-down and trading cost, while enhancing the scalability & flexibility of portfolio
-- Collaborated with data engineers to optimize feature engineering processes, improving model accuracy by +20% on average.
+- Implemented time-series techniques achieving 90% success rate in back-testing and value at risk reduction (market risk) calculation for stock price volatility.
+- Build solid data science project for equity research and sector based valuation modeling using top-down approach methodology to drive portfolio growth.
+- Automated scorecard dashboard delivery to clients at weekly/monthly frequency levels
 
 **Manager - Data Science & Analytics, TD Canada Trust (_Nov 2021 - June 2024)**
 - Developed comprehensive measurement plans and performance scorecards to drive omni-channel strategies across owned channesl (owned & Paid Media), optimizing busines conversions, and implementing attribution models to achieve strategic business objectives.
