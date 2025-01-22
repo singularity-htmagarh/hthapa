@@ -13,8 +13,6 @@
 **Co-Founder, PRL Insights & Partners (_July 2024 - Present_)**
 - Recommended top performing channels driving bottom-funnel metrics to optimize for higher conversion rate ($1.5 MM incremental revenue) by analysing cross-channel impact on digital attribution for clients.
 - Carried out brand lift studies and creative A/B site testing to measure and optimize media channels including paid search, online video, natural search, programmatic, social media and mobile.
-- Co-founded boutique data analytics and innovation based consulting startup that focuses on global macro based forecasting, quantitative finance & capital markets research using applied machine learning techniques.
-- Implemented time-series techniques achieving 90% success rate in back-testing and value at risk reduction (market risk) calculation for stock price volatility.
 - Build solid data science project for equity research and sector based valuation modeling using top-down approach methodology to drive portfolio growth.
 - Automated scorecard dashboard delivery to clients at weekly/monthly frequency levels
 
