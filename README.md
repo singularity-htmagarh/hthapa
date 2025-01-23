@@ -12,6 +12,7 @@
 ## Work Experience
 **Co-Founder, PRL Insights & Partners (_July 2024 - Present_)**
 - Recommended top performing channels driving bottom-funnel metrics to optimize for higher conversion rate ($1.5 MM incremental revenue) by analysing cross-channel impact on digital attribution for clients.
+- Integrated Bayesian Mixture Models (e.g., BG/NBD, Pareto NBD) to calculate retention probabilities and assess the impact of product releases, increasing retention prediction accuracy by 20% and enabling precise measurement of new product performance.
 - Carried out brand lift studies and creative A/B site testing to measure and optimize media channels including paid search, online video, natural search, programmatic, social media and mobile.
 - Build solid data science project for equity research and sector based valuation modeling using top-down approach methodology to drive portfolio growth.
 - Automated scorecard dashboard delivery to clients at weekly/monthly frequency levels
@@ -24,15 +25,16 @@
 - Developed and implemented machine learning models to optimize digital marketing campaigns, leading to a +20% increase in ROI by enhancing ad targeting and audience segmentation.
 
 **Team Lead - Data Science Analytics, Epsilon (_Jan 2019 - Dec 2020_)**
+- Implemented survival models (e.g., Cox Proportional Hazard, Accelerated Failure Time) to handle partially baked data, enabling 15% faster LTV computations for non-subscription customers and improving retention rate predictions.
 - Collaborated with cross-functional teams to design and implement data pipelines that automated the colelction, cleaning and analysis of digital marketing data, reducing reporting time by +30%
 - Implemented machine learning algorithm based on +90% success on back-test using python code to predict customer behavioral insights, experience and loyalty.
 - Implemented advanced machine learning algorithms and statistical techniques to analye digital media per formance, built measurement frameworks and attribution models to track performance across paid, earned and owned channels, increasing conversion rates by +15%
 - Analyzed large sclae audience data (100M+ users) using Apache Hive and PySpark, enabling the optimization of media spend and personalized content recommendations for fortune 500 clients.
 
 **Manager - Data Scientist, iCrossing Company (_Mar 2016 - Dec 2018_)**
-- Developed and monitor quarterly sales forecast & optimization deliverable managing $29.4M investment
+- Developed and monitor quarterly sales forecast & optimization deliverable managing $29.4M investment resulting in +15% ROI improvement
 - Supervised 2 analysts on preparing & presenting monthly reports, implemented python code & APIs integration by reducing reporting cycle by 20%
-- Constructed a seasonal forecast model managing $16M investment resulting in +15% ROI improvement
+- Leveraged regression-based machine learning models (e.g., Random Forest, XGBoost) to eliminate survival bias, achieving a 15% lift in customer LTV estimates and driving better-targeted retention strategies.
 - Performed click-stream data analysis on data stored in Amazon AWS S3 to uncover consumer behavior patterns and key variables influencing conversion, delivering real-time insights into engagement metrics.
 - Performed sentiment analysis on customer reviews and social media data, identifying key trends that informed content creation and social media strategy, driving a +25% increase in engagement.
 
