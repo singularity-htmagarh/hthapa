@@ -45,16 +45,23 @@
 - Implemented machine learning pipelines and automation tools, reducing manual reporting time by 30%
 
 ## Projects
+<!--
 ### Scoring modeling in marketing research to improve response rate of marketing campaigns
-<!-- [Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048) 
 
-The concepot of RFM **(Recency, Frequency and Monetary)** in market research extent way back when historical transactions started to be collected in databases. Suddenly, we had DB-managers and analst looking into databases to understand response rate performance to evaluate direct marketing campaigns effectiveness. By simply looking into co-horts based on RFM, analysts were able to notic stark changes in customer responses to similar campaigns. So, in order to improve performance, they would mail customers more frequently who are more likely to respond than others.
+The concepot of RFM **(Recency, Frequency and Monetary)** in market research extent way back when historical transactions started to be collected in databases. Suddenly, we had DB-managers and analst looking into databases to understand response rate performance to evaluate direct marketing campaigns effectiveness. By simply looking into co-horts based on RFM, analysts were able to notic stark changes in customer responses to similar campaigns. So, in order to improve performance, they would mail customers more frequently who are more likely to respond than others. -->
 
-### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
-<!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
+### AI-Driven Fraud Detection Using Machine Learning
+This project focuses on leveraging Artificial Intelligence (AI) and Machine Learning (ML) to enhance fraud detection capabilities in financial transactions. Traditional fraud detection methods rely on rule-based systems, which can be slow and ineffective against evolving fraud patterns. By integrating neural networks and advanced ML algorithms, this project aims to detect and predict fraudulent activities faster and more accurately.
+
+<!--### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
+ [Publication](https://www.mdpi.com/1424-8220/22/11/4240) 
 
 MMM is a statistical analysis to estimate the past impact and predict the future impact of various marketing tactics on sales, can deeply inform marketing plans.
 I created a **full stack econometric model** for marketing mix to evaluate the sales forecast, it is important to understand the concept of advertising stock (adstock) decomposition for campaigns, the level of reach, penetration and frequency ordering to manage various media channels. We would also go into details of how sales distribution and price-promotion plays role in creating a full stack economic models.
+-->
+### AI-Powered Anti-Money Laundering (AML) Detection System
+Developed a machine learning-driven Anti-Money Laundering (AML) detection system to identify suspicious transactions and enhance financial compliance. The project leveraged supervised and unsupervised learning techniques to detect anomalies and patterns indicative of money laundering.
 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
