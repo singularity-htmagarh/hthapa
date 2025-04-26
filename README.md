@@ -1,12 +1,14 @@
-# Data Scientist & Machine Learning Leader
+# Data Science & Machine Learning Expert
 ## AI/ML | Strategy & Consulting | Business Insights
 
-#### Data Science/Machine Learning Professional with 8+ years of experience in advanced analytics, data engineering, reporting and automation, proven expertise in leading data-driven initiatives, building machine learning and optimization models and delivering actionable insights to drive business performance. Strong track record in managing cross-functional teams and maintaining growth through advanced data science solutions.
+#### Data Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, marketing and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
 
-- MLOps Tools: GCP Machine Learning Tools, BigQuery ML, TensorFlow, PyTorch
-- Data Analysis & Visualization: Tableau, Power BI, Lifetime Value/ Customer Acquisition Cost Analysis
-- Programming Language: Python, R, SQL, JavaScript, Advance Excel, Shell Script
-- Database Systems & Cloud Computing: Amazon Web Services-Redshift, Athena, SQL Server, Google Cloud (Big Query), Azure Databricks
+- Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
+- Data Analysis & Visualization: SQL, Python, R, Google Analytics, Adobe Analytics, Tableau
+- Paid Media Tools: Google and Meta Ads, Search Ads 360, YouTube, Programmatic (TradeDesk), Mixpanel
+- Customer Insights & Segmentation: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization 
+- Marketing Technologies: Adobe Marketing Cloud, Google Marketing Platform, Google Tag Manager, Adobe Launch 
+- Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation 
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
 ## Work Experience
