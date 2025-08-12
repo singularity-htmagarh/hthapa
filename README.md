@@ -1,13 +1,12 @@
 # Data Science & Machine Learning Expert
-## AI/ML | Strategy & Consulting | Business Insights
+## AI/ML | Strategy & Consulting | Media & Marketing Science
 
-#### Data Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, marketing and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
+#### Marketing Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, retail and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
 
-- Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
-- Data Analysis & Visualization: SQL, Python, R, Google Analytics, Adobe Analytics, Tableau
-- Paid Media Tools: Google and Meta Ads, Search Ads 360, YouTube, Programmatic (TradeDesk), Mixpanel
-- Customer Insights & Segmentation: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization 
-- Marketing Technologies: Adobe Marketing Cloud, Google Marketing Platform, Google Tag Manager, Adobe Launch 
+- Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
+- Data & Customer Insights: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization
+- CRM Tools: Salesforce, HubSpot CRM, Adobe Experience Cloud 
+- Technologies: SQL, Python, Databricks, Azure, Google Analytics, Tableau, Data Studio 
 - Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation 
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
@@ -47,25 +46,15 @@
 - Implemented machine learning pipelines and automation tools, reducing manual reporting time by 30%
 
 ## Projects
-<!--
-### Scoring modeling in marketing research to improve response rate of marketing campaigns
+### Scoring Models in Marketing Research to Improve Campaign Response Rates
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048) 
- -->
-The concepot of RFM **(Recency, Frequency and Monetary)** in market research extent way back when historical transactions started to be collected in databases. Suddenly, we had DB-managers and analst looking into databases to understand response rate performance to evaluate direct marketing campaigns effectiveness. By simply looking into co-horts based on RFM, analysts were able to notic stark changes in customer responses to similar campaigns. So, in order to improve performance, they would mail customers more frequently who are more likely to respond than others.
+The concept of RFM (Recency, Frequency, and Monetary) in marketing research dates back to the early days of database marketing, when companies first began storing historical transaction data and analysts started exploring these databases to evaluate the effectiveness of direct marketing campaigns. By segmenting customers into cohorts based on their RFM scores, analysts quickly noticed significant differences in response rates to similar campaigns. This understanding enabled them to target high-value segments—customers with higher RFM scores—more frequently and strategically, thereby increasing the likelihood of response and improving overall campaign performance.
 
-<!--
-### AI-Driven Fraud Detection Using Machine Learning
-This project focuses on leveraging Artificial Intelligence (AI) and Machine Learning (ML) to enhance fraud detection capabilities in financial transactions. Traditional fraud detection methods rely on rule-based systems, which can be slow and ineffective against evolving fraud patterns. By integrating neural networks and advanced ML algorithms, this project aims to detect and predict fraudulent activities faster and more accurately.
--->
 ### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
  [Publication](https://www.mdpi.com/1424-8220/22/11/4240) 
 
 MMM is a statistical analysis to estimate the past impact and predict the future impact of various marketing tactics on sales, can deeply inform marketing plans.
 I created a **full stack econometric model** for marketing mix to evaluate the sales forecast, it is important to understand the concept of advertising stock (adstock) decomposition for campaigns, the level of reach, penetration and frequency ordering to manage various media channels. We would also go into details of how sales distribution and price-promotion plays role in creating a full stack economic models.
-<!--
-### AI-Powered Anti-Money Laundering (AML) Detection System
-Developed a machine learning-driven Anti-Money Laundering (AML) detection system to identify suspicious transactions and enhance financial compliance. The project leveraged supervised and unsupervised learning techniques to detect anomalies and patterns indicative of money laundering.
--->
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
 ## The impact of frequency on conversion rates
@@ -93,5 +82,5 @@ Marketers in all media are interested in the concept of optimal frequency, few k
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 -->
-- [Data Science Blog](https://h-t-magarh.medium.com/)
+- [Data Science Blog](https://medium.com/@heaththapa)
 
