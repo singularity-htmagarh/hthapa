@@ -1,14 +1,14 @@
 # Data Science & Machine Learning Expert
 ## AI/ML | Strategy & Consulting | Media & Marketing Science
 
-#### Marketing Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, retail and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
+#### Professional with 8+ years of experience transforming complex marketing, media, and customer data into actionable strategies that drive measurable business impact. Proven expertise in advanced analytics, CRM performance measurement, attribution modeling, segmentation, and marketing optimization. Strong record of leading cross-functional teams, collaborating with marketing, data science, and technology stakeholders, and delivering insights that accelerate revenue growth, improve retention, and optimize channel effectiveness across Email, SMS, Paid Media, and Clienteling.
 
 - Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
 - Data & Customer Insights: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization
 - CRM Tools: Salesforce, HubSpot CRM, Adobe Experience Cloud 
 - Technologies: SQL, Python, Databricks, Azure, Google Analytics, Tableau, Data Studio 
 - Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation 
-- Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
+- Sector Focus: Advertising Measurement, Digital Transformation, Technology, Media & Advertising
 
 ## Work Experience
 **Great Learning Instructor, Part-Time (_July 2021 - Present_)**
@@ -34,9 +34,7 @@
 ### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-## Reach and frequency Optimization to Reduce Media Waster and Improve Conversion Rate
-
-- [Data Science YouTube](https://www.youtube.com/@HeathThapa)
+### Reach and frequency Optimization to Reduce Media Waster and Improve Conversion Rate
 
 ## Step Wise Regression Analysis in Detail
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -59,4 +57,5 @@
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 -->
 - [Data Science Blog](https://medium.com/@heaththapa)
+- [Data Science YouTube](https://www.youtube.com/@HeathThapa)
 
