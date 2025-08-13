@@ -11,54 +11,30 @@
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research
 
 ## Work Experience
-**Co-Founder, PRL Insights & Partners (_July 2024 - Present_)**
-- Recommended top performing channels driving bottom-funnel metrics to optimize for higher conversion rate ($1.5 MM incremental revenue) by analysing cross-channel impact on digital attribution for clients.
-- Integrated Bayesian Mixture Models (e.g., BG/NBD, Pareto NBD) to calculate retention probabilities and assess the impact of product releases, increasing retention prediction accuracy by 20% and enabling precise measurement of new product performance.
-- Carried out brand lift studies and creative A/B site testing to measure and optimize media channels including paid search, online video, natural search, programmatic, social media and mobile.
-- Build solid data science project for equity research and sector based valuation modeling using top-down approach methodology to drive portfolio growth.
-- Automated scorecard dashboard delivery to clients at weekly/monthly frequency levels
+**Great Learning Instructor, Part-Time (_July 2021 - Present_)**
+- Business Statistics, Applied Data Science
+- Marketing and Retail Analytics
 
 **Manager - Data Science & Analytics, TD Bank (_Nov 2021 - June 2024)**
-- Developed comprehensive measurement plans and performance scorecards to drive omni-channel strategies across owned channesl (owned & Paid Media), optimizing busines conversions, and implementing attribution models to achieve strategic business objectives.
-- Established a daily automation process to transfer 500 GB 1TB of data from remote servers using seured socket shell (SSH) through putty terminals, storing them into in-house cloudera apache hadopp data lakes.
-- Established e2e automated jobs for output data generation for email tableau reporting using Apache Ozzie job automation and scheduling operations saving 72 hours or resource time.
-- Conducted a thorough cleaning of master campaign files to identify taxonomy gaps in reporting, utilizing an NLP algorithm. This process involved integrating data from various sources to ensure comprehensive and accurate reporting.
-- Developed and implemented machine learning models to optimize digital marketing campaigns, leading to a +20% increase in ROI by enhancing ad targeting and audience segmentation.
+- Measurement plans, Customer Orchestration, e2e Automation and Modeling, ML Automation
 
 **Team Lead - Data Science Analytics, Epsilon Media Agency (_Jan 2019 - Dec 2020_)**
-- Implemented survival models (e.g., Cox Proportional Hazard, Accelerated Failure Time) to handle partially baked data, enabling 15% faster LTV computations for non-subscription customers and improving retention rate predictions.
-- Collaborated with cross-functional teams to design and implement data pipelines that automated the colelction, cleaning and analysis of digital marketing data, reducing reporting time by +30%
-- Implemented machine learning algorithm based on +90% success on back-test using python code to predict customer behavioral insights, experience and loyalty.
-- Implemented advanced machine learning algorithms and statistical techniques to analye digital media per formance, built measurement frameworks and attribution models to track performance across paid, earned and owned channels, increasing conversion rates by +15%
-- Analyzed large sclae audience data (100M+ users) using Apache Hive and PySpark, enabling the optimization of media spend and personalized content recommendations for fortune 500 clients.
+- Retention Modeling, Data Pipelines, Engineering, Customer Behavior Insights, Paid Social Analytics, Advertising Measurements
 
 **Manager - Data Scientist, Hearst Media (_Mar 2016 - Dec 2018_)**
-- Developed and monitor quarterly sales forecast & optimization deliverable managing $29.4M investment resulting in +15% ROI improvement
-- Supervised 2 analysts on preparing & presenting monthly reports, implemented python code & APIs integration by reducing reporting cycle by 20%
-- Leveraged regression-based machine learning models (e.g., Random Forest, XGBoost) to eliminate survival bias, achieving a 15% lift in customer LTV estimates and driving better-targeted retention strategies.
-- Performed click-stream data analysis on data stored in Amazon AWS S3 to uncover consumer behavior patterns and key variables influencing conversion, delivering real-time insights into engagement metrics.
-- Performed sentiment analysis on customer reviews and social media data, identifying key trends that informed content creation and social media strategy, driving a +25% increase in engagement.
+- Forecast & optimization, Media Mix Modeling, clickstream analytics, sentiment analysis, social media strategy
 
 **Senior Data Analyst - Nielsen Marketing Services (_Mar 2015 - Mar 2016_)**
-- Collaborated with cross-functional teams to gather requirements and created detailed data warehouse schematics, field specifications and data management processes to improve operational efficiency by +20%
-- Optimized client overall marketing budget by saving 4.5% $ margin on digital and traditional channels using media saturation curves built through marketing planners.
-- Developed machine learning models to optimize tag configurations, enhancing conversion rates by analyzing tag-triggred events and customer segments
-- Implemented machine learning pipelines and automation tools, reducing manual reporting time by 30%
+- Marketing Mix Modeling, Media Effectiveness, Data Engineering and Pipelines
 
 ## Projects
 ### Scoring Models in Marketing Research to Improve Campaign Response Rates
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048) 
-The concept of RFM (Recency, Frequency, and Monetary) in marketing research dates back to the early days of database marketing, when companies first began storing historical transaction data and analysts started exploring these databases to evaluate the effectiveness of direct marketing campaigns. By segmenting customers into cohorts based on their RFM scores, analysts quickly noticed significant differences in response rates to similar campaigns. This understanding enabled them to target high-value segments—customers with higher RFM scores—more frequently and strategically, thereby increasing the likelihood of response and improving overall campaign performance.
+<!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
 ### Using Marketing Mix Modeling (MMM) to evaluate media and campaign effectiveness
- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) 
+<!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-MMM is a statistical analysis to estimate the past impact and predict the future impact of various marketing tactics on sales, can deeply inform marketing plans.
-I created a **full stack econometric model** for marketing mix to evaluate the sales forecast, it is important to understand the concept of advertising stock (adstock) decomposition for campaigns, the level of reach, penetration and frequency ordering to manage various media channels. We would also go into details of how sales distribution and price-promotion plays role in creating a full stack economic models.
-<!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
-
-## The impact of frequency on conversion rates
-Marketers in all media are interested in the concept of optimal frequency, few know how to actually measure it. Coommon sense tells us that too few impressions won't generate significant impact, while too many impressions delivered to a given user results in over-saturation and a waster of media dollars.
+## Reach and frequency Optimization to Reduce Media Waster and Improve Conversion Rate
 
 - [Data Science YouTube](https://www.youtube.com/@HeathThapa)
 
