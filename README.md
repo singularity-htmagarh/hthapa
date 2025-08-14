@@ -1,5 +1,5 @@
-# Data Science & Machine Learning Expert
-## AI/ML | Strategy & Consulting | Media & Marketing Science
+# Marketing & Data Science Expert
+## ML/AI | Media & Advertising | Strategy & Consulting
 
 #### Professional with 8+ years of experience transforming complex marketing, media, and customer data into actionable strategies that drive measurable business impact. Proven expertise in advanced analytics, CRM performance measurement, attribution modeling, segmentation, and marketing optimization. Strong record of leading cross-functional teams, collaborating with marketing, data science, and technology stakeholders, and delivering insights that accelerate revenue growth, improve retention, and optimize channel effectiveness across Email, SMS, Paid Media, and Clienteling.
 
